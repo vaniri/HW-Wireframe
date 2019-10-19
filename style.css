@@ -27,10 +27,6 @@ section {
     height: 250px;
 }
 
-.seccontainer {
-    display: inline;
-}
-
 aside {
     float: left;
     width: 390px;
